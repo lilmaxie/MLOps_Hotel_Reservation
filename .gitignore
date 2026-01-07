@@ -1,0 +1,6 @@
+omega-branch-483602-k3-cd8e6b710fb1.json
+venv/
+__pycache__/
+mlruns/
+logs/
+hotel_reservation_project.egg-info/
