@@ -4,3 +4,4 @@ __pycache__/
 mlruns/
 logs/
 hotel_reservation_project.egg-info/
+mlflow.db
